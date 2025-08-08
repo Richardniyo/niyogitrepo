@@ -9,5 +9,11 @@ public class App
    {
    system.out.print ("welcome to Devops Training! " );
    }
+<<<<<<< HEAD
 
 wewe}
+=======
+}
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>> df666fd772ce83176eba895d65d696dc3da28818
