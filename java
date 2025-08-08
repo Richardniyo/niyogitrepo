@@ -10,3 +10,5 @@ public class App
    system.out.print ("welcome to Devops Training! " );
    }
 }
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
